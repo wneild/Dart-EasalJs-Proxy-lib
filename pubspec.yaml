@@ -1,0 +1,6 @@
+name: Dart-EasalJs-Proxy-lib
+version: 0.0.1
+description: Proxy library to interface with the JS library EasalJs.
+author: Will Neild <saladpie01@gmail.com>
+dependencies:
+  browser: any
